@@ -1,1 +1,1 @@
-template for create bq table by mohini
+template for create bq table by sumit
